@@ -6,7 +6,7 @@
 
 >[!NOTE]
 > 
->El modelo *{PUT_YOUR_MODEL_NAME}.keras* es demasiado grande para subirlo directamente a GitHub (>100 MB).
+>El modelo *best_mlp_model.keras* es demasiado grande para subirlo directamente a GitHub (>100 MB).
 >
 >El modelo se encuentra disponible para descarga externa.
 >
